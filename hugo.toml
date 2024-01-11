@@ -97,6 +97,10 @@ enableEmoji = true
     name = "github"
     url = "https://github.com/alexhaydock"
 
+  [[params.socialLinks]]
+    name = "email"
+    url = "mailto:alex@alexhaydock.co.uk"
+
 [menu]
 
 # Re-enable when I actually have some posts
