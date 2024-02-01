@@ -89,9 +89,9 @@ enableEmoji = true
     name = "mastodon"
     url = "https://infosec.exchange/@alexhaydock"
 
-  [[params.socialLinks]]
-    name = "gitlab"
-    url = "https://gitlab.com/alexhaydock"
+#  [[params.socialLinks]]
+#    name = "gitlab"
+#    url = "https://gitlab.com/alexhaydock"
 
   [[params.socialLinks]]
     name = "github"
